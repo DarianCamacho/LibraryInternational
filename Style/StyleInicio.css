@@ -1,0 +1,12 @@
+﻿body {
+    background-color: #f0f0f0;
+}
+
+.card {
+    background-color: white;
+    margin-bottom: 100px;
+}
+
+    .card img {
+        height: 350px; /* Establecer la altura fija que desees */
+    }
